@@ -1,0 +1,4 @@
+1 - Beef - Curry - 180
+2 - Chicken - Roast - 200
+3 - Mutton - Roast - 250
+4 - Rice - Bashmoti - 200

@@ -1,0 +1,96 @@
+Order ID: 1718648581
+Customer Name: Raju
+Phone Number: 098765432
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+1 - Beef - Curry - 1 - 180
+Total Price: 580
+-----------------------------
+Order ID: 1718649694
+Customer Name: Karim
+Phone Number: 098765
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+3 - Mutton - Roast - 1 - 250
+2 - Chicken - Roast - 1 - 200
+Total Price: 850
+-----------------------------
+Order ID: 1718651475
+Customer Name: Himel
+Phone Number: 2345
+Items Ordered:
+4 - Rice - Bashmoti - 3 - 600
+2 - Chicken - Roast - 1 - 200
+1 - Beef - Curry - 1 - 180
+Total Price: 980
+-----------------------------
+Order ID: 1718714569
+Customer Name: Tajul
+Phone Number: 123456
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+1 - Beef - Curry - 2 - 360
+Total Price: 760
+-----------------------------
+Order ID: 1718726482
+Customer Name: Siddik
+Phone Number: 1234567
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+3 - Mutton - Roast - 1 - 250
+2 - Chicken - Roast - 1 - 200
+1 - Beef - Curry - 2 - 360
+Total Price: 1210
+-----------------------------
+Order ID: 1725393863
+Customer Name: Safayat
+Phone Number: 01825754220
+Items Ordered:
+3 - Mutton - Roast - 1 - 250
+1 - Beef - Curry - 2 - 360
+Total Price: 610
+-----------------------------
+Order ID: 1725395369
+Customer Name: Safayat
+Phone Number: 01825754220
+Items Ordered:
+3 - Mutton - Roast - 1 - 250
+2 - Chicken - Roast - 2 - 400
+Total Price: 650
+-----------------------------
+Order ID: 1725395474
+Customer Name: rifat
+Phone Number: 000
+Items Ordered:
+4 - Rice - Bashmoti - 1 - 200
+Total Price: 200
+-----------------------------
+Order ID: 1725395545
+Customer Name: Rifat
+Phone Number: 0000
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+Total Price: 400
+-----------------------------
+Order ID: 1725395607
+Customer Name: Rifat
+Phone Number: 001
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+2 - Chicken - Roast - 1 - 200
+Total Price: 800
+Order ID: 1725396212
+Customer Name: rifat
+Phone Number: 010
+Items Ordered:
+2 - Chicken - Roast - 3 - 600
+Total Price: 600
+-----------------------------
+Order ID: 20240904-035007
+Customer Name: safayat
+Phone Number: 0001
+Items Ordered:
+4 - Rice - Bashmoti - 1 - 200
+2 - Chicken - Roast - 1 - 200
+Total Price: 400
+-----------------------------
